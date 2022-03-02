@@ -1,0 +1,5 @@
+nginx-1.19.5
+*.zip
+/*.rar
+/*.sql
+/web_xmw_vue/*.rar
