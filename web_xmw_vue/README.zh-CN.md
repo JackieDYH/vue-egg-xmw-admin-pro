@@ -2,7 +2,7 @@
 
 <p align="center"><img width="100" src="https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/logo.svg" alt="Vue-Admin-Xmw-Pro Logo"></p>
 
-<h1 align="center">Vue-Admin-Xmw-Pro</h1>
+<h1 align="center">vue-egg-xmw-admin-pro</h1>
 
 <p align="center">
   <a href="https://github.com/vuejs/vue/" target="_blank">
@@ -34,7 +34,7 @@
 
 - 🔗 后端传送门：[Xmw_server](../Xmw_server)
 
-- ❤️ star：**如果可以的话，请顺手给个star，表示对作者的鼓励，万分感谢！**
+- ❤️ star：**如果可以的话，请顺手给个 star，表示对作者的鼓励，万分感谢！**
 
 ## 环境和依赖
 
@@ -48,6 +48,7 @@
 ## 项目运行
 
 - 拉取项目代码
+
 ```bash
 git clone https://github.com/FollowTrend/vue-admin-xmw-pro.git
 cd vue-admin-xmw-pro
@@ -55,16 +56,19 @@ cd Xmw_web
 ```
 
 - 安装依赖
+
 ```
 yarn install
 ```
 
 - 开发模式运行
+
 ```
 yarn run serve
 ```
 
 - 编译项目
+
 ```
 yarn run build
 ```
@@ -136,18 +140,18 @@ yarn run build
 
 ## 演示图
 
-| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-1.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-2.jpg) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-3.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-4.jpg) |
-| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-5.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-6.jpg) |
-| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-7.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-8.jpg) |
+| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-1.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-2.jpg)  |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-3.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-4.jpg)  |
+| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-5.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-6.jpg)  |
+| ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-7.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-8.jpg)  |
 | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-9.jpg) | ![](https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/xmw-demo-10.jpg) |
 
 ## 特别鸣谢（感谢巨人）
 
-| 项目                                                          |
-| ---------------------------------------------------------------- |
-| [vue.js 构建用户界面的渐进式框架](https://github.com/vuejs/vue)                              |
-| [Ant Design Vue Pro基于Antd Vue的前端脚手架](https://github.com/vueComponent/ant-design-vue-pro)     |
-| [Ant Design Vue-开箱即用的高质量Vue组件](https://github.com/vueComponent/ant-design-vue) |
-| [axios 基于 promise 的 HTTP 库](https://github.com/axios/axios)                          |
+| 项目                                                                                                |
+| --------------------------------------------------------------------------------------------------- |
+| [vue.js 构建用户界面的渐进式框架](https://github.com/vuejs/vue)                                     |
+| [Ant Design Vue Pro 基于 Antd Vue 的前端脚手架](https://github.com/vueComponent/ant-design-vue-pro) |
+| [Ant Design Vue-开箱即用的高质量 Vue 组件](https://github.com/vueComponent/ant-design-vue)          |
+| [axios 基于 promise 的 HTTP 库](https://github.com/axios/axios)                                     |

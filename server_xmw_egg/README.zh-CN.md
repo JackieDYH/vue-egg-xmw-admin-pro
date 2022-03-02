@@ -2,7 +2,7 @@
 
 <p align="center"><img width="100" src="https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/logo.svg" alt="Vue-Admin-Xmw-Pro Logo"></p>
 
-<h1 align="center">Vue-Admin-Xmw-Pro</h1>
+<h1 align="center">vue-egg-xmw-admin-pro</h1>
 
 <p align="center">
   <a href="https://github.com/eggjs/egg/" target="_blank">
@@ -35,7 +35,7 @@
 
 - 🔗 前端传送门：[Xmw_web](../Xmw_web)
 
-- ❤️ star：**如果可以的话，请顺手给个star，表示对作者的鼓励，万分感谢！**
+- ❤️ star：**如果可以的话，请顺手给个 star，表示对作者的鼓励，万分感谢！**
 
 ## 环境和依赖
 
@@ -47,6 +47,7 @@
 ## 项目运行
 
 - 拉取项目代码
+
 ```bash
 git clone https://github.com/FollowTrend/vue-admin-xmw-pro.git
 cd vue-admin-xmw-pro
@@ -54,11 +55,13 @@ cd Xmw_server
 ```
 
 - 安装依赖
+
 ```
 yarn install
 ```
 
 - 开发模式运行
+
 ```
 yarn run dev
 ```
@@ -81,9 +84,9 @@ yarn run dev
 
 ## 特别鸣谢（感谢巨人）
 
-| 项目                                                          |
-| ---------------------------------------------------------------- |
-| [egg.js 为企业级框架和应用而生](https://github.com/eggjs/egg)                              |
-| [egg-socket.io 支持浏览器和服务器之间的实时、双向和基于事件的通信](https://github.com/eggjs/egg-socket.io)     |
-| [jsonwebtoken 实现token技术的一种解决方案](https://github.com/auth0/node-jsonwebtoken) |
-| [sequelize orm框架](https://github.com/sequelize/sequelize)                          |
+| 项目                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------- |
+| [egg.js 为企业级框架和应用而生](https://github.com/eggjs/egg)                                              |
+| [egg-socket.io 支持浏览器和服务器之间的实时、双向和基于事件的通信](https://github.com/eggjs/egg-socket.io) |
+| [jsonwebtoken 实现 token 技术的一种解决方案](https://github.com/auth0/node-jsonwebtoken)                   |
+| [sequelize orm 框架](https://github.com/sequelize/sequelize)                                               |

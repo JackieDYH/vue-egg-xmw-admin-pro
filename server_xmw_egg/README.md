@@ -2,7 +2,7 @@ English | [简体中文](./README.zh-CN.md)
 
 <p align="center"><img width="100" src="https://xmwpro.oss-cn-beijing.aliyuncs.com/vue-admin-xmw-pro/logo.svg" alt="Vue-Admin-Xmw-Pro Logo"></p>
 
-<h1 align="center">Vue-Admin-Xmw-Pro</h1>
+<h1 align="center">vue-egg-xmw-admin-pro</h1>
 
 <p align="center">
   <a href="https://github.com/eggjs/egg/" target="_blank">
@@ -47,6 +47,7 @@ English | [简体中文](./README.zh-CN.md)
 ## Project Running
 
 - Pull the project code
+
 ```bash
 git clone https://github.com/FollowTrend/vue-admin-xmw-pro.git
 cd vue-admin-xmw-pro
@@ -54,11 +55,13 @@ cd Xmw_server
 ```
 
 - Install dependencies
+
 ```
 yarn install
 ```
 
 - Development mode running
+
 ```
 yarn run dev
 ```
@@ -79,12 +82,11 @@ yarn run dev
     ├── plugin.js(Used to configure the plug-in that needs to be loaded)
 ```
 
-
 ## Special Thanks（Thanks to the giant）
 
-| Project                                                          |
-| ---------------------------------------------------------------- |
-| [egg.js Designed for enterprise-class frameworks and applications](https://github.com/eggjs/egg)                              |
-| [egg-socket.io enables real-time, bidirectional and event-based communication between the browser and the server](https://github.com/eggjs/egg-socket.io)     |
-| [jsonwebtoken A solution to implement Token technology](https://github.com/auth0/node-jsonwebtoken) |
-| [sequelize Orm framework](https://github.com/sequelize/sequelize)                          |
+| Project                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [egg.js Designed for enterprise-class frameworks and applications](https://github.com/eggjs/egg)                                                          |
+| [egg-socket.io enables real-time, bidirectional and event-based communication between the browser and the server](https://github.com/eggjs/egg-socket.io) |
+| [jsonwebtoken A solution to implement Token technology](https://github.com/auth0/node-jsonwebtoken)                                                       |
+| [sequelize Orm framework](https://github.com/sequelize/sequelize)                                                                                         |
