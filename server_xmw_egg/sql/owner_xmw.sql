@@ -382,7 +382,7 @@ CREATE TABLE `xmw_role`  (
   `roleID` int(11) NOT NULL AUTO_INCREMENT COMMENT '自增ID',
   `roleName` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL COMMENT '角色名称',
   `status` int(10) NOT NULL COMMENT '是否开启，1开启，0禁用',
-  `roleList` varchar(6000) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '角色权限',
+  `roleList` varchar(21000) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '角色权限',
   `createTime` datetime NULL DEFAULT NULL COMMENT '创建时间',
   `updateTime` datetime NULL DEFAULT NULL COMMENT '最后更新时间',
   PRIMARY KEY (`roleID`) USING BTREE
